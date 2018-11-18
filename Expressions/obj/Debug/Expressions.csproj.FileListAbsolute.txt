@@ -1,0 +1,6 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\bin\Debug\Expressions.exe.config
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\bin\Debug\Expressions.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\bin\Debug\Expressions.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\obj\Debug\Expressions.csprojResolveAssemblyReference.cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\obj\Debug\Expressions.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Expressions\Expressions\obj\Debug\Expressions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\bin\Debug\Mapper.exe.config
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\bin\Debug\Mapper.exe
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\bin\Debug\Mapper.pdb
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\obj\Debug\Mapper.csprojResolveAssemblyReference.cache
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\obj\Debug\Mapper.exe
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\Expressions\Mapper\obj\Debug\Mapper.pdb

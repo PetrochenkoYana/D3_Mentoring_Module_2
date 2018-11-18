@@ -1,0 +1,14 @@
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Sample03.dll.config
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Sample03.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Sample03.pdb
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\obj\Debug\Sample03.csprojResolveAssemblyReference.cache
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\obj\Debug\Sample03.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\obj\Debug\Sample03.pdb
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Castle.Core.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Moq.dll
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Castle.Core.xml
+C:\Users\Yana_Petrachenka\Downloads\OneDrive_2018-11-16\Samples\Sample03\bin\Debug\Moq.xml
